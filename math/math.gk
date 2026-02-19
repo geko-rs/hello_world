@@ -1,0 +1,6 @@
+use math
+
+println(math.sin(1))
+println(math.cos(1))
+println(math.tg(1))
+println(math.ctg(1))
